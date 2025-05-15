@@ -1,7 +1,3 @@
-Here’s a clean, informative `README.md` for your **Turtle Racing** project:
-
----
-
 # 🐢 Turtle Racing Game
 
 A fun and colorful command-line racing game built with Python's `turtle` graphics module. Players choose the number of racers (between 2 and 10), and watch them compete in a vertical race to the top!
